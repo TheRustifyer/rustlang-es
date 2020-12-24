@@ -21,11 +21,11 @@ Como siempre, una vez superado ese nivel, Rust será tu mejor compañero de cami
 
 Y por último, si vienes de algún lenguaje más íntimamente relacionado con bajo nivel, preferentemente procedural, estáticamente tipado y probablemente débilmente tipado como pueden ser los monstruos de `C y C++`, te sorprenderás lo fácil que resulta aprender Rust, a la vez que solucionas los legendarios problemas de este tipo de lenguajes de bugs relativos al acceso y manejo de memoria. 
 
-## Recuersos oficiales:
+## Recursos oficiales:
 
-- [The Book](https://doc.rust-lang.org/book/index.html) - Es el recurso más exhaustivo (y oficial) para aprender Rust, pero es un poco difícil de seguir a veces debido a su alta carga teórica y al nivel de detalle que ofrece. De cualquier manera, no hay mejor recurso complementario que la documentación hecha por sus creadores!
+- [El libro](https://doc.rust-lang.org/book/index.html) - Es el recurso más exhaustivo (y oficial) para aprender Rust, pero es un poco difícil de seguir a veces debido a su alta carga teórica y al nivel de detalle que ofrece. De cualquier manera, no hay mejor recurso complementario que la documentación hecha por sus creadores!
 
-- [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html) - Diseñado para aprender Rust con ejemplos, es una perfecta herramienta para desarrollarte a través de la práctica!
+- [Rust en ejemplo](https://doc.rust-lang.org/rust-by-example/index.html) - Diseñado para aprender Rust con ejemplos, es una perfecta herramienta para desarrollarte a través de la práctica!
 
 ## Descarga Rust
 
