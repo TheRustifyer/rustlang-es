@@ -73,7 +73,11 @@ Rust es un lenguaje `ahead-of-time compiled`. Eso significa que una vez compilad
 Siempre es un intercambio, de algo en contra por algo a favor según la perspectiva y las necesidades requeridas.
 
 
+## Hasta la próxima
 
+Espero que os haya gustado vuestra primera aventura `rustácea!`. Hemos explicado los pormenores para que cualquier futuro desarrollador pueda iniciarse con pie firme en este lenguaje.
+
+Gracias por leer, y nos vemos en el siguiente capítulo!
 
 
 
