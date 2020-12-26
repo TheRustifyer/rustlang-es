@@ -2,16 +2,16 @@
 
 Hola! Y bienvenidos a `rust!ang-es`. 
 
-Este proyecto ha sido creado POR y PARA la difusión del eco-sistema de `rust-lang`, y contiene un conjunto de documentos en Castellano que te ayudarán a iniciarte en el maravilloso mundo de Rust!
+Este proyecto ha sido creado POR y PARA la difusión del eco-sistema de [`rust-lang`](https://www.rust-lang.org/es/), y contiene un conjunto de documentos en Castellano que te ayudarán a iniciarte en el maravilloso mundo de Rust!
 
 ## Pero... y que es RUST?
 
 Rust es un lenguaje multiparadigma y multipropósito, inicialmente orientado a la programación de sistemas, e ideal para mejorar los tiempos de desarrollo debiado a gran capacidad de abstración (esto es, que permite escribir código más lejos del lenguaje de las máquinas y más cerca de algo parecido a lenguaje de humanos). 
 Gracias a su construcción, es un lenguaje extremademente rápido y además tremendamente seguro, con una capacidad de manejo de la memoria completo y fuera de peligro, siendo esta la cualidad más novedosa del mismo.
 Esto todo es lo que hace que su poder de desarrollo se extienda a más áreas de las intencionadas inicialmente, en parte debido a que Mozilla fué uno de sus grandes impulsores y en parte al impulso de la comunidad open-source y el maravilloso ecosistema que hay alrededor de Rust, y que ha hecho crecer este lenguaje hasta lo que conocemos hoy en día. 
-Como curiosidad, te dejo en enlace al [código de conducta de Rust](https://www.rust-lang.org/es/policies/code-of-conduct) para que le eches una ojeada y entiendas el por qué su comunidad es como es! ::):
+Como curiosidad, te dejo en enlace al [código de conducta de Rust](https://www.rust-lang.org/es/policies/code-of-conduct) para que le eches una ojeada y entiendas el por qué su comunidad es como es! :)
 
-Con todo Rust sigue siendo un bebé, ya que su primera versión oficial fué lanzada al público en 2015, pero contando que su primer diseño fue en 2006, y el apoyo de Mozilla se formalizó en 2009, tenemos ante nosotros a un lenguaje realmente bien diseñado, adelantado a su tiempo y pionero de la revolución en las nuevas tecnologías del software.
+DIcho esto hay que recordar que Rust sigue siendo un bebé, ya que su primera versión oficial fué lanzada al público en 2015, pero contando que su primer diseño fue en 2006, y el apoyo de Mozilla se formalizó en 2009, tenemos ante nosotros a un lenguaje realmente bien diseñado, adelantado a su tiempo y pionero de la revolución en las nuevas tecnologías del software.
 
 Este lenguaje nació de uno de los ingenieros de Mozilla que, en busca de un lenguaje que permitiera escribir un código verdaderamente rápido (al mismo nivel que C o C++) pero sin los problemas de gestión de memoria que habían llevado históricamente a estos lenguajes a ser extremadamente deficientes en la gestión de graves bugs en el acceso de memoria y en tiempo de ejecución.
 
