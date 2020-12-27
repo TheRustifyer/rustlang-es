@@ -41,7 +41,7 @@ fn main() {
 }
 ```
 
-Con esto tenemos nuestro proyecto estructurado. Cargo confía en que el directorio principal, en este caso el `hello cargo` lo dejes para los archivos README.md, licencias y demás cosas relacionadas con el 'standard' de repositorios y creación de proyectos de hoy en día, mientras que el directorio `src`sea el que se encargue de contenter todos los archivos relaciondos con tu código. De esta manera, nos aseguramos seguir siempre una estructura, ser más eficientes a la hora de diseñar y estructurar proyectos mientras que podemos desenvolvernos correctamente en otros repositorios cuando leamos sus archivos a la par que hacemos más fácil que otros desarrolladores encuentren lo que buscan en el nuestro.
+Con esto tenemos nuestro proyecto estructurado. Cargo confía en que el directorio principal, en este caso el `hello cargo` lo dejes para los archivos README.md, licencias y demás cosas relacionadas con el 'standard' de repositorios y creación de proyectos de hoy en día, mientras que el directorio `src` sea el que se encargue de contenter todos los archivos relaciondos con tu código. De esta manera, nos aseguramos seguir siempre una estructura, ser más eficientes a la hora de diseñar y estructurar proyectos mientras que podemos desenvolvernos correctamente en otros repositorios cuando leamos sus archivos a la par que hacemos más fácil que otros desarrolladores encuentren lo que buscan en el nuestro.
 
 ## Compilar y ejecutar un proyecto en Cargo
 
@@ -52,7 +52,7 @@ C:\Users\Alex\Desktop\Rust\rustlang-es\01. Iniciación\hello_cargo>cargo build
     Finished dev [unoptimized + debuginfo] target(s) in 0.70s
 ```
 
-Esto creará un nuevo directorio llamado target. Para no extendernos mucho, para correr nuestro código simplemente nos movemos dentro del directorio y ejecutamos el archivo 
+Esto creará un nuevo directorio llamado target. Para no extendernos mucho, para poder correr nuestro código simplemente nos movemos dentro del directorio y ejecutamos el archivo 
 `main.exe`.
 ```
 $ .\target\debug\hello_cargo.exe # or ./target/debug/hello_cargo on Linux.
