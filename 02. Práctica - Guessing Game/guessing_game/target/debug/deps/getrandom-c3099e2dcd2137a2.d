@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\Rust\rustlang-es\02. Práctica - Guessing Game\guessing_game\target\debug\deps\getrandom-c3099e2dcd2137a2.rmeta: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\util.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error_impls.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\windows.rs
+
+C:\Users\Alex\Desktop\Rust\rustlang-es\02. Práctica - Guessing Game\guessing_game\target\debug\deps\libgetrandom-c3099e2dcd2137a2.rlib: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\util.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error_impls.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\windows.rs
+
+C:\Users\Alex\Desktop\Rust\rustlang-es\02. Práctica - Guessing Game\guessing_game\target\debug\deps\getrandom-c3099e2dcd2137a2.d: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\util.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error_impls.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\windows.rs
+
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\lib.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\util.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\error_impls.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.0\src\windows.rs:
